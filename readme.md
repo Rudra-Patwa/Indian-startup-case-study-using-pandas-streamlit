@@ -107,7 +107,7 @@ The Investor Analysis section enables users to select a specific investor from a
 - **Investors in Similar Sectors**: This component lists four investors who have invested in the same sectors as the selected investor.
 
 ## How to Use
-
+[List of plan](https://docs.google.com/document/d/1ylIQyudlomyeuh86GzjLhHELKhZT-mRIlia5g070-Cs/edit?usp=sharing) 
 1. Launch the Streamlit app by following the installation instructions mentioned earlier.
 2. Once the app is running, access the provided URL in your web browser.
 3. The website will load, displaying the Overall Analysis section by default.
@@ -119,4 +119,4 @@ The Investor Analysis section enables users to select a specific investor from a
 
 For any questions or inquiries, feel free to reach out to me at:
 
-- Website: [Abhishek Gupta](https://abhi.getifyme.com/)
+- Linkedin: [Rudra Patwa](www.linkedin.com/in/rudra-patwa-91b784239)

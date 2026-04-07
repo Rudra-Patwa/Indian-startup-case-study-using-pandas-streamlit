@@ -10,8 +10,8 @@ Dependencies:
 
 Note: The `analysis` and `components` are imported from the `analysis` and `components` module.
 
-Author: Abhishek Gupta
-Github: https://github.com/1abhi6
+Author: Rudra Patwa
+
 """
 
 import streamlit as st
@@ -51,7 +51,7 @@ class Main:
         startup: Renders the startup analysis component.
     """
 
-    def __init__(self) -> None:
+    def __init__(self) -> None: # runs automatically when app starts
         """
         Initialize the Main class.
         """
@@ -68,7 +68,7 @@ class Main:
         Render the home component based on the user's selection.
         """
         # Page configuration
-        st.set_page_config(layout='wide', page_title="Abhi's Startup Analysis", page_icon='📊')
+        st.set_page_config(layout='wide', page_title="Rudra's Startup Analysis", page_icon='📊')
         st.sidebar.title(
             'Startup Funding analysis',
             help='Note: Data for Indian startups (2015-2020)'
